@@ -1,0 +1,15 @@
+{
+  "name": "formation-git",
+  "version": "1.0.0",
+  "description": "Test du stash\r TEst",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
